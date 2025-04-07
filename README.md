@@ -1,2 +1,2 @@
 # jsonTextConverter
-A python script to change texts in a JSON file
+A python script to change texts within a JSON file
